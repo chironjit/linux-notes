@@ -15,6 +15,8 @@ Use the Shred tool to erase a hard drive by running this command.
 - `f` : force mode - changes file permissions if necessary to allow writing
 - `z` : adds a final pass with zeros to hide the shredding
 
+##### Note: this is not the way to wipe SSDs or NVME drives
+
 
 
 
