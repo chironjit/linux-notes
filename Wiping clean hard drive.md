@@ -1,4 +1,4 @@
-# Wipe claen your hard drive using the Shrid tool
+# Wipe clean your hard drive using the Shred tool
 Use the Shred tool to erase a hard drive by running this command.
 
 > ### 🛑 *Stop and read the warning*
